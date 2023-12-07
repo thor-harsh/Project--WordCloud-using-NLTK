@@ -3,7 +3,9 @@
 
 <table>
 
-**In this project We will analyze top 10 poems of Rabindranath Tagore using nltk(library of NLP) and will find the Term Frequency and Document Frequency for these poems. Then we will plot WordCloud for the TF(Term Frequency) and DF(Document Frequency).**
+**In this project we will analyze top 10 poems of Rabindranath Tagore using nltk(library of NLP).** <br></br>
+
+We will find the Term Frequency and Document Frequency for these poems. Then we will plot WordCloud for the TF(Term Frequency) and DF(Document Frequency).
 
 
 **Before jumping to the code lets what does Term Frequency,Document Frequency,Inverse Document Frequency, WordCloud in NLP means First**...<br></br>
