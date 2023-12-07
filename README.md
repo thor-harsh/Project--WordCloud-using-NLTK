@@ -3,8 +3,7 @@
 
 <table>
 
-**In this project we will analyze top 10 poems of Rabindranath Tagore using nltk(library of NLP).** <br></br>
-
+**In this project we will analyze top 10 poems of Rabindranath Tagore using nltk(library of NLP).** <br>
 We will find the Term Frequency and Document Frequency for these poems. Then we will plot WordCloud for the TF(Term Frequency) and DF(Document Frequency).
 
 
