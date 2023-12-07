@@ -31,6 +31,8 @@ Inverse Document Frequency (IDF) is a weight indicating how commonly a word is u
 It is a visualization technique for text data wherein each word is picturized with its importance in the context or its frequency. A word cloud is a simple yet powerful visual representation object for text processing, which shows the most frequent word with bigger and bolder letters, and with different colors. The smaller the the size of the word the lesser it’s important.<br></br>
 
 
+**Important Note: Go through the combined.txt file before jumping to the code.**
+
 </table>
 
 **So what are you waiting for...? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
