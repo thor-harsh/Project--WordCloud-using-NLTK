@@ -3,33 +3,31 @@
 
 <table>
   
-**In this project We will build our First CryptoCurrency on the Blockchain built in previous project and will use Flask to make a Flask Web Application where our Blockchain will run. We will also use Postman to visualize the Blockchain.** <br></br>
-
-**We are gonna performing many operations in Blockchain using Postman**<br></br>
-
-**a:** Visualize our Blockchain <br></br>
-**b:** Mine the Block in the Blockchain <br></br>
-**c:** Check the Validity of our Blockchain <br></br>
-**d.** Add the Transactions in the Blockchain
-**e** Replace the chain with the longest chain to follow the consesus of the Blockchain
-**f** Create the nodes in the Blockchain
-
-**Before jumping to the code lets understand Blockchain and CryptoCurrency First**...<br></br>
-
-**What is Blockchain**?<br></br>
-A blockchain is a distributed database or ledger shared among a computer network's nodes. They are best known for their crucial role in cryptocurrency systems for maintaining a secure and decentralized record of transactions, but they are not limited to cryptocurrency uses. Blockchains can be used to make data in any industry immutable—the term used to describe the inability to be altered.<br></br>
-
-Because there is no way to change a block, the only trust needed is at the point where a user or program enters data. This aspect reduces the need for trusted third parties, which are usually auditors or other humans that add costs and make mistakes.Since Bitcoin's introduction in 2009, blockchain uses have exploded via the creation of various cryptocurrencies, decentralized finance (DeFi) applications, non-fungible tokens (NFTs), and smart contracts.<br></br>
-
-Blockchain is a type of shared database that differs from a typical database in the way it stores information; blockchains store data in blocks linked together via cryptography.Different types of information can be stored on a blockchain, but the most common use for transactions has been as a ledger.<br></br>
-In Bitcoin’s case, blockchain is decentralized so that no single person or group has control—instead, all users collectively retain control.
-Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, transactions are permanently recorded and viewable to anyone.<br></br>
+**In this project We will analyze top 10 poems of Rabindranath Tagore using nltk(library of NLP) and will find the Term Frequency and Document Frequency for these poems. Then we will plot WordCloud for the TF(Term Frequency) and DF(Document Frequency).
 
 
-**What is CryptoCurrency?** <br></br>
+**Before jumping to the code lets what does Term Frequency,Document Frequency,Inverse Document Frequency, WordCloud in NLP means First**...<br></br>
 
-A cryptocurrency is a digital currency, which is an alternative form of payment created using encryption algorithms. The use of encryption technologies means that cryptocurrencies function both as a currency and as a virtual accounting system. To use cryptocurrencies, you need a cryptocurrency wallet.<br></br>
-A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.<br></br>
+<table>
+
+**What is Term Frequency**?
+Term frequency is the measurement of how frequently a term occurs within a document. The easiest calculation is simply counting the number of times a word appears. However, there are ways to modify that value based on the document length or the frequency of the most frequently used word in the document.
+
+
+**What is Document Frequency**?
+
+Document frequency is the number of documents containing a particular term.Document frequency has several uses. First, it can be used to eliminate unimportant words from analysis. For example, you can enforce that words that appeared in at least 80% of your documents, can be removed from further analysis. This doesn’t just remove common words such as the, is and are but also domain specific words that are too frequent.
+
+
+**What is Inverse Document Frequency**?
+
+Inverse Document Frequency (IDF) is a weight indicating how commonly a word is used. The more frequent its usage across documents, the lower its score. The lower the score, the less important the word becomes.
+
+**What is Word Cloud**?
+It is a visualization technique for text data wherein each word is picturized with its importance in the context or its frequency. A word cloud is a simple yet powerful visual representation object for text processing, which shows the most frequent word with bigger and bolder letters, and with different colors. The smaller the the size of the word the lesser it’s important.
+
+
+
 
 
 </table>
