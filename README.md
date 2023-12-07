@@ -8,7 +8,6 @@
 
 **Before jumping to the code lets what does Term Frequency,Document Frequency,Inverse Document Frequency, WordCloud in NLP means First**...<br></br>
 
-<table>
 
 **What is Term Frequency**?<br></br>
 Term frequency is the measurement of how frequently a term occurs within a document. The easiest calculation is simply counting the number of times a word appears. However, there are ways to modify that value based on the document length or the frequency of the most frequently used word in the document.<br></br>
